@@ -1,0 +1,36 @@
+# Просто взятый пресет чтобы случайно не коммитил ненужные файлы
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Database
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+
+# Build outputs
+dist/
+build/
+*.exe
+*.dll
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+logs/
