@@ -1,6 +1,6 @@
 ## Блокировщик MAX для Linux
 
-![[pictures/screenshot.png]]
+![preview](pictures/screenshot.png)
 ## Описание
 
 Данный скрипт поможет предотвратить открытие сайта MAX.
